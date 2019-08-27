@@ -15,3 +15,9 @@ Now you can just tell you alfred to close it for you!
 
 
 <img src="https://raw.githubusercontent.com/jmarcon/closeall.alfredworkflow/master/close.png" alt="Close" />
+
+You can:
+
+- Close all notifications
+- Close the top most notification in your list
+- Click in the top most notification in your list
