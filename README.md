@@ -1,5 +1,8 @@
 # CloseALL/ClearALL Alfred Workflow
+
 An Alfred Workflow to Clear/Close All opened alert notifications in your macos
+
+## It's not working with the new MacOS version (BigSur).
 
 Some times, when you let your mac online for a long time without human intervention, it will accumulate alert notifications...
 
